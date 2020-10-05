@@ -1,0 +1,46 @@
+# packages in environment at /Users/gabrielatanumihardja/opt/anaconda3/envs/boosting:
+#
+# Name                    Version                   Build  Channel
+appnope                   0.1.0                    pypi_0    pypi
+backcall                  0.2.0                    pypi_0    pypi
+blas                      1.0                         mkl  
+ca-certificates           2020.6.24                     0  
+certifi                   2020.6.20                py37_0  
+decorator                 4.4.2                    pypi_0    pypi
+intel-openmp              2019.4                      233  
+ipython                   7.18.1                   pypi_0    pypi
+ipython-genutils          0.2.0                    pypi_0    pypi
+jedi                      0.17.2                   pypi_0    pypi
+libcxx                    10.0.0                        1  
+libedit                   3.1.20191231         h1de35cc_1  
+libffi                    3.2.1                h0a44026_6  
+mkl                       2019.4                      233  
+mkl-service               2.3.0            py37hfbe908c_0  
+mkl_fft                   1.1.0            py37hc64f4ea_0  
+mkl_random                1.1.1            py37h959d312_0  
+ncurses                   6.2                  h0a44026_1  
+numpy                     1.19.1           py37h3b9f5b6_0  
+numpy-base                1.19.1           py37hcfb5961_0  
+openssl                   1.0.2u               h1de35cc_0  
+pandas                    1.1.0            py37hb1e8313_0  
+parso                     0.7.1                    pypi_0    pypi
+pexpect                   4.8.0                    pypi_0    pypi
+pickleshare               0.7.5                    pypi_0    pypi
+pip                       20.2.2                   py37_0  
+prompt-toolkit            3.0.7                    pypi_0    pypi
+ptyprocess                0.6.0                    pypi_0    pypi
+pygments                  2.7.1                    pypi_0    pypi
+python                    3.7.0                hc167b69_0  
+python-dateutil           2.8.1                      py_0  
+pytz                      2020.1                     py_0  
+readline                  7.0                  h1de35cc_5  
+setuptools                49.6.0                   py37_0  
+six                       1.15.0                     py_0  
+sqlite                    3.32.3               hffcf06c_0  
+tk                        8.6.10               hb0a8c7a_0  
+traitlets                 5.0.4                    pypi_0    pypi
+watermark                 2.0.2                    pypi_0    pypi
+wcwidth                   0.2.5                    pypi_0    pypi
+wheel                     0.34.2                   py37_0  
+xz                        5.2.5                h1de35cc_0  
+zlib                      1.2.11               h1de35cc_3  
